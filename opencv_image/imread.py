@@ -1,3 +1,4 @@
+#读取图片
 import cv2
 
 #imread(filename,flags)
